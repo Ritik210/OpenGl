@@ -4,3 +4,4 @@ This repository have basic implmentations of openGl like triangle, circles in Op
 This repository also have different computer graphics algorithms:
 DDA line drawing algo
 Bresenham line drawing algo
+Circle drawing algo
