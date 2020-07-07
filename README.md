@@ -6,5 +6,5 @@ DDA line drawing algo
 Bresenham line drawing algo
 Circle drawing algo
 Ellipse drawing algo
-Flood fill
+Flood fill algo
 Boundry fill
