@@ -5,6 +5,6 @@ This repository also have different computer graphics algorithms:
 DDA line drawing algo,
 Bresenham line drawing algo,
 Circle drawing algo,
-Ellipse drawing algo
-Flood fill algo
-Boundry fill algo
+Ellipse drawing algo,
+Flood fill algo,
+Boundry fill algo,
