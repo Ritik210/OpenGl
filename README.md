@@ -9,5 +9,6 @@ Ellipse drawing algo,
 Flood fill algo,
 Boundry fill algo,
 Line Clipping Algorithms(Cohen-Sutherland, Liang Barsky),
+2D 
 Beizer Curve,
 Fractals.
