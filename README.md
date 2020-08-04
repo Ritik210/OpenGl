@@ -9,7 +9,7 @@ This repository also have different computer graphics algorithms:
 
 DDA line drawing algorithm,
 
-Bresenham line drawing algo,
+Bresenham line drawing algorithm,
 
 Circle drawing algo,
 
