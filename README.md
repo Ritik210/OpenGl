@@ -17,7 +17,7 @@ Ellipse drawing algorithm,
 
 Flood fill algorithm,
 
-Boundry fill algo,
+Boundry fill algorithm,
 
 Line Clipping Algorithms(Cohen-Sutherland,Liang Barsky),
 
