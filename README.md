@@ -13,7 +13,7 @@ Bresenham line drawing algorithm,
 
 Circle drawing algorithm,
 
-Ellipse drawing algo,
+Ellipse drawing algorithm,
 
 Flood fill algo,
 
