@@ -11,7 +11,7 @@ DDA line drawing algorithm,
 
 Bresenham line drawing algorithm,
 
-Circle drawing algo,
+Circle drawing algorithm,
 
 Ellipse drawing algo,
 
