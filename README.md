@@ -15,7 +15,7 @@ Circle drawing algorithm,
 
 Ellipse drawing algorithm,
 
-Flood fill algo,
+Flood fill algorithm,
 
 Boundry fill algo,
 
