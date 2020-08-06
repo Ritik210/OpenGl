@@ -1,5 +1,5 @@
 # OpenGl
-This repository contains different OpenGL code used in Computer graphics.
+This repository contains different Computer graphics.
 
 To use them first u need to setup openGL in your system.
 
