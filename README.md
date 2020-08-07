@@ -1,5 +1,5 @@
 # OpenGl
-This repository contains different Computer graphics algorithms.
+This repository contains different Computer graphics algorithms implemented.
 
 To use them first u need to setup openGL in your system.
 
