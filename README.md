@@ -19,7 +19,7 @@ Flood fill algorithm,
 
 Boundry fill algorithm,
 
-Line Clipping Algorithms(Cohen-Sutherland algorithm & Liang Barsky ),
+Line Clipping Algorithms(Cohen-Sutherland algorithm & Liang Barsky algorithm),
 
 2D Transformations(Translation,Scaling,Shearing,Reflection,Rotation),
 
