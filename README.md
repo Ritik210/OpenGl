@@ -1,7 +1,7 @@
 # OpenGl
 This repository contains different Computer graphics algorithms implemented using OpenGL and C++.
 
-To use them first u need to setup openGL in your system.
+To use them first you need to setup openGL in your system.
 
 This repository have basic implmentations of openGl like triangle, circles in OpenGl and Animation using OpenGl.
 
