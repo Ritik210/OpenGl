@@ -1,4 +1,4 @@
-# OpenGl - Computer G
+# OpenGl - Computer Gr
 This repository contains different Computer graphics algorithms implemented using OpenGL and C++.
 
 To use them first you need to setup openGL in your system.
